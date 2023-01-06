@@ -1,0 +1,54 @@
+
+#aboutt {
+  padding: 120px 0px 0px 0px;
+  position: relative;
+  z-index: 9;
+}
+
+#aboutt .container {
+  border-bottom: 5px solid #f7f7f7;
+  padding-bottom: 80px;
+}
+
+#aboutt .section-heading1 {
+  margin-bottom: 10px;
+}
+
+#aboutt .section-heading1 h6 {
+  color: #5fb759;
+}
+
+#aboutt .service-item1 {
+  margin-top: 30px;
+}
+
+#aboutt .service-item1 img {
+  float: left;
+  margin-right: 15px;
+  width: 46px;
+  height: 46px;
+}
+
+#aboutt .service-item1 h4 {
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.25px;
+  line-height: 46px;
+}
+
+#aboutt a.main-button-icon {
+  display: inline-block;
+  margin-top: 60px;
+}
+
+#aboutt .right-text-content {
+  margin-top: 40px;
+}
+
+#aboutt .right-text-content p {
+  font-size: 16px;
+  line-height: 27px;
+  color: #777;
+}
+
